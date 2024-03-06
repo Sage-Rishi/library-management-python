@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": "123",
+        "isbn": "9780590353403",
+        "check_in_date": 1709720138.794666,
+        "check_out_date": 1709720580.8651829
+    },
+    {
+        "user_id": "123",
+        "isbn": "9780590353403",
+        "check_in_date": 1709720676.383914,
+        "check_out_date": null
+    },
+    {
+        "user_id": "123",
+        "isbn": "9780061120084",
+        "check_in_date": 1709720684.084609,
+        "check_out_date": null
+    }
+]
